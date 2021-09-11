@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiPleDrawer</string>
+    <string name="drawer">Drawer</string>
+    <string name="todo">TODO</string>
+</resources>
